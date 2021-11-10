@@ -39,10 +39,7 @@ When a person applies for a loan, there are two types of decisions that could be
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+A huge spike was observed in the total loans that have been waivered is for people who have who do not own a house and borrowed money for debt consolidation and a high amount of loan is being charged off from customers who are verified and have either mortgaged their home or customers who stay in rented homes. The same is true for customers who take loans for debt consolidation. Contrary to what was observed in the overall trend, the most charged off loans for zip code 945xx was for grade C and grade E. Grade G loans were not granted to people residing in this zip code
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
